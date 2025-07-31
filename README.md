@@ -18,7 +18,7 @@ Recipe Meal Planner is a Django based application where users can sign up to cre
 ### Clone the project
 
 ```bash
-git clone https://github.com/shivatejaburle/recipe-meal-planner
+git clone https://github.com/leandrobentosouza/recipe-meal-planner
 cd recipe-meal-planner
 ```
 
